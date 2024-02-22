@@ -36,3 +36,7 @@ y_label = axes.set_ylabel('Celsius')
 ```
 
 ### Part 4: Observe the differences between part 2 method and part 3 method
+```
+1. We have observed that regression lines are different because slope and intercept obtained from Part 2 and Part 3 are different.
+2. There is a small different between slopes of regression lines obtained from Part 2 and Part 3. However, there is a huge difference between intercepts of regression lines in Part 2 and Part 3.
+```
